@@ -1,0 +1,148 @@
+{
+  "type": "FeatureCollection",
+  "features": [
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Oviedo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -5.862495,
+        43.352269
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Villárdiga"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.465068,
+          41.818525
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Madrid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+         -3.782771,
+        40.452349
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "name": "Cañizo"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.504939,
+          41.769600
+        ]
+      }
+    },
+     {
+      "type": "Feature",
+      "properties": {
+        "name": "Villalpando"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.415103,
+          41.865082
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Valladolid"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.717915,
+          41.660319
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Belver de los Montes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.451055,
+          41.723301
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "San Martín de Valderaduey"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.472016,
+          41.815340
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Limanes"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.779886,
+          43.370749
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Colloto"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -5.7995600,
+          43.3826600
+        ]
+      }
+    },
+    {
+      "type": "Feature",
+      "properties": {
+        "name": "Serrada"
+      },
+      "geometry": {
+        "type": "Point",
+        "coordinates": [
+          -4.862192,
+          41.458013
+        ]
+      }
+    }
+	]
+}
